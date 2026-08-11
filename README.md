@@ -1,7 +1,8 @@
 # 🏫 Campus Guide Application (KKU Nong Khai)
 
 เว็บแอปพลิเคชันแนะนำและจัดการข้อมูลสถานที่ภายใน **คณะสหวิทยาการ มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย** พัฒนาด้วย Next.js (App Router), TypeScript และ Tailwind CSS
-https://campus-guide-xi.vercel.app/
+
+🌐 Live Demo : https://campus-guide-xi.vercel.app/
 ---
 
 ## 📸 ภาพตัวอย่างการทำงานแต่ละหน้า (Screenshots)
